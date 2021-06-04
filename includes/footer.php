@@ -34,18 +34,8 @@
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
 
-          <div class="col-lg-4 col-md-6 footer-newsletter">
+          <div class="col-lg-7 col-md-6 footer-newsletter">
             <h4>Get the latest scoop on what's new and cool!</h4>
             <p>Subscribe to our newsletter and stay up-to-date with style trends, pop culture, and cool deals.</p>
             <form action="" method="post">

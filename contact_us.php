@@ -21,13 +21,13 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>CABUYAO CITY, LAGUNA, REGION IV-A, PHILIPPINES, 4025</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>cre8team@gmail.com</p>
               </div>
 
               <div class="phone">

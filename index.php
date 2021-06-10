@@ -39,54 +39,8 @@
   </section><!-- End Hero -->
 
   <main id="main">
-    <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-receipt"></i>
-              <h4>Step 1: View List of Products & Order Now !</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Step 2: Checkout Now, Payment Later</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-images"></i>
-              <h4>Step 3: Track & Receive your order</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-shield"></i>
-              <h4>Step 4: Feedback</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Features Section -->
-
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
-
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
+       <!-- ======= Counts Section ======= -->
+       <section id="counts" class="counts">
       <div class="container" data-aos="fade-up">
 
         <div class="row no-gutters">
@@ -137,41 +91,41 @@
       </div>
     </section><!-- End Counts Section -->
 
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
+     <!-- ======= Testimonials Section ======= -->
+     <section id="testimonials" class="testimonials">
       <div class="container" data-aos="zoom-in">
 
         <div class="owl-carousel testimonials-carousel">
 
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
+            <h3>Juan Dela Cruz</h3>
+            <h4>From FB Page</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              Love this shop. Good quality clothing, size fits well. And what is very important for me - delivery is very fast, I get my order on next day!!!
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
+            <h3>Theresita</h3>
+            <h4>From FB Page</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              Great value, good prices and perfect location. Would love to have similar shop in my home town, thanks online shopping is possible here.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
+            <h3>Anonymous</h3>
+            <h4>From FB Page</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+              Great shop where you can always find something trendy and original. High quality things!
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -179,10 +133,10 @@
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
             <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
+            <h4>From FB Page</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+              Very helpful staff, fast delivery and wonderful loyalty system.  Recommend
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -190,10 +144,10 @@
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
             <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
+            <h4>From FB Page</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              Adequate pricing and wide range of products. The stuff is always friendly and helping. There is also a corner for your child inside. Easy parking.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -203,9 +157,42 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container" data-aos="fade-up">
 
-    
+        <div class="row">
+          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
+          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+              <i class="bx bx-receipt"></i>
+              <h4>Step 1: View List of Products & Add To Cart Now !</h4>
+              <p>A lot of items that you can add to your cart.</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+              <i class="bx bx-cube-alt"></i>
+              <h4>Step 2: Checkout Now, Payment Later</h4>
+              <p>You can pay through gcash or cash on delivery.</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+              <i class="bx bx-images"></i>
+              <h4>Step 3: Track & Receive your order</h4>
+              <p>You can now track your order through this sytem.</p>
+            </div>
+            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+              <i class="bx bx-shield"></i>
+              <h4>Step 4: Feedback</h4>
+              <p>Your opinion is very important to us, thank you all for the kind words.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Features Section -->
+
+   
+
+ 
 
   </main><!-- End #main -->
 <?php include("includes/footer.php"); ?>

@@ -11,7 +11,7 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61872.166479515654!2d121.0793133118969!3d14.252615436319077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d8847ffc5237%3A0xeefaf6451f579b65!2sCabuyao%2C%20Laguna!5e0!3m2!1sen!2sph!4v1623303602346!5m2!1sen!2sph" width="1100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
 
         <div class="row mt-5">

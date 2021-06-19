@@ -5,9 +5,9 @@
 
     <h1 class="logo"><a href="index.php">CRE-8 TEAM<span>.</span>
       <br><label style="font-size: 12px;">
-      <?php if(isset($_SESSION['personId'])){ 
-          echo UserPersonName($_SESSION['personId']);
-       } ?>
+      <?php //if(isset($_SESSION['personId'])){ 
+        //  echo UserPersonName($_SESSION['personId']);
+       //} ?>
      </label>
 
     </a></h1>
@@ -24,11 +24,11 @@
           </ul>
         </li>
         <li><a href="collection.php">Collections</a></li>
-        <?php if(isset($_SESSION['personId'])){ 
-          if($_SESSION['userTypeId'] == 1 || $_SESSION['userTypeId'] == 2){?>
-          <li class="drop-down"><a href="#">Accounts</a>
+        <?php //if(isset($_SESSION['personId'])){ 
+         // if($_SESSION['userTypeId'] == 1 || $_SESSION['userTypeId'] == 2){?>
+          <!-- <li class="drop-down"><a href="#">Accounts</a>
             <ul>
-              <?php if($_SESSION['userTypeId'] == 1){ ?>
+              <?php //if($_SESSION['userTypeId'] == 1){ ?>
               <li class="drop-down"><a href="#">System Admin</a>
                 <ul>
                   <li><a href="create_account.php?id=1">Create System Admin</a></li>
@@ -41,7 +41,7 @@
                   <li><a href="read_account.php?id=2">Read Business Admin</a></li>
                 </ul>
               </li>
-              <?php } ?>
+              <?php// } ?>
               <li class="drop-down"><a href="#">Staff</a>
                 <ul>
                   <li><a href="create_account.php?id=3">Create Staff</a></li>
@@ -55,20 +55,20 @@
                 </ul>
               </li>
             </ul>
-          </li>
-        <?php }
-        } ?> 
+          </li> -->
+        <?php //}
+        //} ?> 
 
-        <?php if(isset($_SESSION['personId'])){ 
-          if($_SESSION['userTypeId'] == 1){?>
-          <li class="drop-down"><a href="#">Product</a>
+        <?php //if(isset($_SESSION['personId'])){ 
+         // if($_SESSION['userTypeId'] == 1){?>
+          <!-- <li class="drop-down"><a href="#">Product</a>
             <ul>
               <li><a href="#">Category Management</a></li>
               <li><a href="#">Product Management</a></li>
             </ul>
-          </li>
-        <?php }
-        } ?> 
+          </li> -->
+        <?php// }
+     //   } ?> 
 
       </ul>
     </nav><!-- .nav-menu -->

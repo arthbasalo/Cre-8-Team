@@ -1,8 +1,3 @@
-<?php //ob_start(); ?>
-<?php //include("includes/connection.php"); ?>
-<?php// include("includes/function.php"); ?>
-<?php //("includes/session.php"); ?>
-<?php //include("includes/default_values.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,14 +27,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  <link href="assets/css/w3.css" rel="stylesheet">
-  
-  <script type="text/javascript" src="assets/js\jquery.min.js"></script>
-  <script type="Text/Javascript" src="assets/js/jquery-3.1.1.min.js"></script>
-  <script type="Text/Javascript" src="assets/js/jquery-3.4.1.min.js"></script>
-  <script type="text/javascript" src="assets/js/Chart.min.js"></script>
-  <script type="text/javascript" src="assets/js/canvasjs.min.js"></script>
-  <script type="text/javascript" src="assets/js\jspdf.min.js"></script>
 
   <!-- =======================================================
   * Template Name: Gp - v2.2.1

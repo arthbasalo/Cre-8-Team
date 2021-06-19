@@ -73,10 +73,10 @@
       </ul>
     </nav><!-- .nav-menu -->
 
-    <?php if(!isset($_SESSION['personId'])){ ?>
-      <a href="sign_in.php" class="get-started-btn scrollto">Login</a>
-    <?php }else{ ?>
-      <a href="sign_out.php" class="get-started-btn scrollto">Logout</a>
-    <?php } ?>
+    <?php //if(!isset($_SESSION['personId'])){ ?>
+      <!-- <a href="sign_in.php" class="get-started-btn scrollto">Login</a> -->
+    <?php //}else{ ?>
+      <!-- <a href="sign_out.php" class="get-started-btn scrollto">Logout</a> -->
+    <?php// } ?>
   </div>
 </header><!-- End Header -->

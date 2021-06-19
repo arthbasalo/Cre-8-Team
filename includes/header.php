@@ -1,8 +1,8 @@
-<?php ob_start(); ?>
-<?php include("includes/connection.php"); ?>
-<?php include("includes/function.php"); ?>
-<?php include("includes/session.php"); ?>
-<?php include("includes/default_values.php"); ?>
+<?php //ob_start(); ?>
+<?php //include("includes/connection.php"); ?>
+<?php// include("includes/function.php"); ?>
+<?php //("includes/session.php"); ?>
+<?php //include("includes/default_values.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 
